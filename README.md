@@ -24,3 +24,6 @@ Clone this repository by running the following command:
       cd python
       ./lust.py
 
+Maintainers. 
+	Esha
+
